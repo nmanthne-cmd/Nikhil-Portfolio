@@ -9,3 +9,8 @@ Hi, My Name is Nikhil Manthena. I am a junior in UNC Charlotte pursuing a degree
 Welcome to my Data Science Studio portfolio.
 
 This website will document my learning and projects throughout the semester.
+
+## Portfolio
+- [Blog](blog.md)
+- [Projects](projects.md)
+
