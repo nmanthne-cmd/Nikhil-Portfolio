@@ -2,4 +2,4 @@ This section documents my data science projects, research questions, and data st
 
 ## Project 1
 
-NFL's home team chance of winning
+How does playing at home affect an NFL team's chance of winning?
