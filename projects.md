@@ -4,6 +4,6 @@ Here are my projects. Click a project title to read more.
 
 ## Project 1
 
-How does playing at home affect an NFL team's chance of winning? (2026-09-13)
+How does playing at home affect an NFL team's chance of winning? (https://github.com/your-username/nmanthne-cmd/blob/main/nfl_home_advantage.md) (2026-09-13)
 
 Problem Definition
