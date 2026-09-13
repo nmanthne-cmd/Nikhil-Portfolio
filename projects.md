@@ -2,4 +2,4 @@ This section documents my data science projects, research questions, and data st
 
 ## Project 1
 
-Coming soon.
+NFL's home team chance of winning
