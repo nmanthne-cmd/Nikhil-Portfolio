@@ -1,2 +1,2 @@
 # Nikhil's portfolio
-This is a portfoilio for my data modeling class.
+This is a portfolio for my data modeling class.
