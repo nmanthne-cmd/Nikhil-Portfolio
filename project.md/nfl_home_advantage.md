@@ -43,7 +43,8 @@ While the summaries don't tell us the full story, the distribution of point diff
 
 During 2020 though when stadium participation dropped to zero due to restrictions, the home win percentage dropped to 50.4 percentage. Within the context of this the live crowd noise moreso than the stadium or the turf contributed the most to the home field advantage. I also followed this up with a regression plot that measures pre snap penalties against final home margins to see whether the crowd affects the larger victories.
 
-<img width="815" height="262" alt="image" src="https://github.com/user-attachments/assets/e99ce944-243c-45db-9e94-b31e863797b7" />
+<img width="807" height="470" alt="image" src="https://github.com/user-attachments/assets/be2de629-849a-4208-85aa-78f41034441d" />
+
 
 
 
