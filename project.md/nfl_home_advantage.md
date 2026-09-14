@@ -60,6 +60,8 @@ When first beginning this project, I believed that NFLverse and the ESPN dataset
 
 Without relying on these specific stats, though, I have to rely on more specific proxy metrics such as false start penalties and attendance capacities. While I do think I can assume that the same micro findings would hold with similar decibel data stuff, looking at more of the moment of the snap could reveal if there are clearer correlations between offensive execution errors.
 
+If I did have more time and data for this project I would work on studying the home field dynamics at a more smaller level. I would also work on incorporating tracking data such as player velocity and reaction times more specifically from NewGen and this would test 
+
 
 
 
