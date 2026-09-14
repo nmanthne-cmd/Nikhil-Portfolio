@@ -48,6 +48,20 @@ During 2020, though, when stadium participation dropped to zero due to restricti
 
 Also, to work on evaluating whether or not crowd disruption would affect larger victories, I followed it up with a least-squares regression line and scatter plot as a whole that would compare the victor's pre-snap penalties against final home margins, which took me around a week to do. While the fitted line would show a more positive slope that would account for more visiting false starts and delay-of-game penalties that would correspond to larger home margins, the variance would remain very high, equating to r2 = 0.04. Most of the games do cluster around 0 to 3 visitor pre-snap penalties, and they do produce point differentials that range from -20 to 20, and this more so shows that crowd noise creates more local noise for the visiting offenses, and also the bigger variables such as quarterback efficiency and turnover margin that would show more than just the scoreboard affects it.
 
+Storytelling and Interpretation: 
+
+The visual and statistical analysis shows that home field advantage still exists within the NFL. The magnitude of this has decreased a lot over the last 25 years. However, even looking at this drop, home team advantage still exists within the NFL.
+
+Team performance is a more complex thing that is influenced by more than stadium location. It is also important to look at how NFL teams have worked to combat the travel friction involved for the visiting teams. Utilizing sports science, recovery tracking, luxury jets, better sleep schedules and more of the snap counts have significantly reduced the issues that have plagued the visiting teams.
+
+Limitations, Ethics and Reflection: 
+
+When first beginning this project, I believed that NFLverse and the ESPN datasets would be enough to reach a conclusion on whether home field advantage is decreasing. As I worked on researching more deeply, I understood that team performance and sports analytics require tracking biological, tactical, and environmental factors over a very long period of time. I also thought there would be a heavier impact of crowd decibels but I wasnt accounting for quarterback quality and defensive efficiency.
+
+Without relying on these specific stats, though, I have to rely on more specific proxy metrics such as false start penalties and attendance capacities. While I do think I can assume that the same micro findings would hold with similar decibel data stuff, looking at more of the moment of the snap could reveal if there are clearer correlations between offensive execution errors.
+
+
+
 
 
 
