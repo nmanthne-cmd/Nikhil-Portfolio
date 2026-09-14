@@ -65,9 +65,14 @@ Finally, this project has taught me that I should be very humble as a data analy
 
 Sources: 
 
-nflVerse Data Repository: https://github.com/nflverse
-ESPN Analytics and QBR Database: https://www.espn.com/nfl/qbr
-AirNav Airport and Stadium Coordinates: https://www.airnav.com/
+nflVerse Data Repository:
+https://github.com/nflverse
+
+ESPN Analytics and QBR Database: 
+https://www.espn.com/nfl/qbr
+
+AirNav Airport and Stadium Coordinates:
+https://www.airnav.com/
 
 
 
