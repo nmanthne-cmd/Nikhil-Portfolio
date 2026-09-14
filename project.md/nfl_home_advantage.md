@@ -24,7 +24,7 @@ Through my next process, which took me 1-2 days, I decided to filter the games b
 
 <img width="905" height="92" alt="image" src="https://github.com/user-attachments/assets/2567e5d1-73f0-4f73-914c-7dfcfea98b17" />
 
-I then worked on filtering play by play that would evaluate penalty events that took me an additional 1-2 days and accounting for events such as false starts, delay of game penalties, and more specifically, burned timeouts from the visiting offence which also accounted for errors from blowouts that would not take into account for the crowd noise.
+I then worked on filtering play by play that would evaluate penalty events that took me an additional 1-2 days, and accounting for events such as false starts, delay of game penalties, and more specifically, burned timeouts from the visiting offence, which also accounted for errors from blowouts that would not take into account for the crowd noise.
 
 <img width="900" height="46" alt="image" src="https://github.com/user-attachments/assets/74436071-d7ec-4a49-9840-91562571c632" />
 
@@ -35,9 +35,9 @@ Finally, something that took me around 4-5 days was accounting for getting my co
 
 Data Understanding and Visualizations:
 
-In order to get a better feel for this dataframe, I generated a distribution of home winning percentages, point diffrentials, and visitor presnap penalty counts through different historical counts.
+In order to get a better feel for this dataframe, I generated a distribution of home winning percentages, point differentials, and visitor pre-snap penalty counts through different historical counts.
 
-While the summaries don't tell us the full story, the distribution of point differentials shows us that there is a difference from zero over time. Between 2000-2008, the home potential distribution was symmetric but centered around 2.7 points but within the modern era spanning from 2019- 2025, it has stabilized to 1.2 points. I also ended up doing this same exploratory analysis which also took me around 2-3 days with stadium crowd capacities and attendance percentages but there was one anomaly, which was the 2020 season.
+While the summaries don't tell us the full story, the distribution of point differentials shows us that there is a difference from zero over time. Between 2000-2008, the home potential distribution was symmetric but centered around 2.7 points, but within the modern era spanning from 2019- 2025, it has stabilized to 1.2 points. I also ended up doing this same exploratory analysis, which also took me around 2-3 days with stadium crowd capacities and attendance percentages but there was one anomaly, which was the 2020 season.
 
 <img width="727" height="242" alt="image" src="https://github.com/user-attachments/assets/4343d257-7900-4b63-853e-754bf7ab6c6c" />
 
@@ -50,7 +50,7 @@ Also, to work on evaluating whether or not crowd disruption would affect larger 
 
 Storytelling and Interpretation: 
 
-The visual and statistical analysis shows that home field advantage still exists within the NFL. The magnitude of this has decreased a lot over the last 25 years. However, even looking at this drop, home team advantage still exists within the NFL.
+The visual and statistical analysis shows that home field advantage still exists within the NFL. The magnitude of this has decreased a lot over the last 25 years. However, even with this drop, home team advantage still exists within the NFL.
 
 Team performance is a more complex thing that is influenced by more than stadium location. It is also important to look at how NFL teams have worked to combat the travel friction involved for the visiting teams. Utilizing sports science, recovery tracking, luxury jets, better sleep schedules and more of the snap counts have significantly reduced the issues that have plagued the visiting teams.
 
@@ -60,7 +60,10 @@ When first beginning this project, I believed that NFLverse and the ESPN dataset
 
 Without relying on these specific stats, though, I have to rely on more specific proxy metrics such as false start penalties and attendance capacities. While I do think I can assume that the same micro findings would hold with similar decibel data stuff, looking at more of the moment of the snap could reveal if there are clearer correlations between offensive execution errors.
 
-If I did have more time and data for this project I would work on studying the home field dynamics at a more smaller level. I would also work on incorporating tracking data such as player velocity and reaction times more specifically from NewGen and this would test 
+If I did have more time and data for this project, I would work on studying the home-field dynamics at a smaller level. I would also work on incorporating tracking data such as player velocity and reaction times, more specifically from NewGen, and this would test whether visiting offensive linemen have slower snap reactions within the home/louder stadiums. I would also, more specifically, separate indoor domes from more extreme outdoor weather venues as a whole that would also evaluate climate-based home edges that don't account for crowd size, and I assume this would have taken me a month or so.
+
+Finally, this project has taught me that I should be very humble as a data analyst. This project has also shown me that I am very passionate about football analytics. I also understand that my understanding of these mechanics and the travel stress information is still growing since i am still new to this sport as a whole. The data within thousands of games, but if we don't understand the nuance, we can draw too simple conclusions that would not make sense to coaches, analysts, and fans.
+
 
 
 
