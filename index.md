@@ -7,7 +7,6 @@ This website will document my learning and projects throughout the semester.
 
 [Blog](blog.md)               -                   [Projects](projects.md)
 
-[NFL Home Field Advantage Analysis](project.md/nfl_home_advantage.md)
 
 My Info
 
