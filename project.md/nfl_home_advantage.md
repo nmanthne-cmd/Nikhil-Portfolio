@@ -39,11 +39,10 @@ In order to get a better feel for this dataframe, I generated a distribution of 
 
 While the summaries don't tell us the full story, the distribution of point differentials shows us that there is a difference from zero over time. Between 2000-2008, the home potential distribution was symmetric but centered around 2.7 points, but within the modern era spanning from 2019- 2025, it has stabilized to 1.2 points. I also ended up doing this same exploratory analysis, which also took me around 2-3 days with stadium crowd capacities and attendance percentages but there was one anomaly, which was the 2020 season.
 
-<img width="727" height="242" alt="image" src="https://github.com/user-attachments/assets/4343d257-7900-4b63-853e-754bf7ab6c6c" />
+<img width="807" height="470" alt="image" src="https://github.com/user-attachments/assets/be2de629-849a-4208-85aa-78f41034441d" />
 
 During 2020, though, when stadium participation dropped to zero due to restrictions, the home win percentage dropped to 50.4 percentage. Within the context of this, live crowd noise, more so than the stadium or the turf, contributed the most to the home field advantage. I also followed this up with a regression plot that measures pre-snap penalties against final home margins to see whether the crowd affects the larger victories.
 
-<img width="807" height="470" alt="image" src="https://github.com/user-attachments/assets/be2de629-849a-4208-85aa-78f41034441d" />
 <img width="897" height="476" alt="image" src="https://github.com/user-attachments/assets/cbf9ac21-6f67-4a58-b605-691e1c81cac1" />
 
 Also, to work on evaluating whether or not crowd disruption would affect larger victories, I followed it up with a least-squares regression line and scatter plot as a whole that would compare the victor's pre-snap penalties against final home margins, which took me around a week to do. While the fitted line would show a more positive slope that would account for more visiting false starts and delay-of-game penalties that would correspond to larger home margins, the variance would remain very high, equating to r2 = 0.04. Most of the games do cluster around 0 to 3 visitor pre-snap penalties, and they do produce point differentials that range from -20 to 20, and this more so shows that crowd noise creates more local noise for the visiting offenses, and also the bigger variables such as quarterback efficiency and turnover margin that would show more than just the scoreboard affects it.
