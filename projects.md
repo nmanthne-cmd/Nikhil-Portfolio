@@ -6,4 +6,3 @@ Here are my projects. Click a project title to read more.
 
 [NFL Home Field Advantage Analysis](project.md/nfl_home_advantage.md)
 
-Problem Definition
