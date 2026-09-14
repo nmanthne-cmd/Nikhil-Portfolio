@@ -64,6 +64,12 @@ If I did have more time and data for this project, I would work on studying the 
 
 Finally, this project has taught me that I should be very humble as a data analyst. This project has also shown me that I am very passionate about football analytics. I also understand that my understanding of these mechanics and the travel stress information is still growing since i am still new to this sport as a whole. The data within thousands of games, but if we don't understand the nuance, we can draw too simple conclusions that would not make sense to coaches, analysts, and fans.
 
+Sources: 
+
+nflVerse Data Repository: https://github.com/nflverse
+ESPN Analytics and QBR Database: https://www.espn.com/nfl/qbr
+AirNav Airport and Stadium Coordinates: https://www.airnav.com/
+
 
 
 
