@@ -16,5 +16,5 @@ Phone: 984-542-9328
 
 Github: nmanthne-cmd
 
-Resume: file:///C:/Users/nvman/Downloads/Copy%20of%20Resume%20Template%20(2).pdf
+Resume: [Resume](./Copy%20of%20Resume%20Template%20(2).pdf)
   
