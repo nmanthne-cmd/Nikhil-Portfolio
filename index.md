@@ -15,4 +15,6 @@ Email: nvmanthena@gmail.com
 Phone: 984-542-9328
 
 Github: nmanthne-cmd
+
+Resume: https://docs.google.com/document/d/1ipLdmV2tWto2D6muEZz8k2DnI74nXq61GvqavVshOaI/edit?tab=t.0#heading=h.gjdgxs
   
