@@ -16,7 +16,7 @@ Phone: 984-542-9328
 
 Github: nmanthne-cmd
 
-Resume: https://drive.google.com/file/d/1hSngOjqJsi5hwjQoyT5OT1Zpq6zRL25d/view?usp=sharing[Resume]
+[Resume](https://drive.google.com/file/d/1hSngOjqJsi5hwjQoyT5OT1Zpq6zRL25d/view?usp=sharing)
 
 
   
