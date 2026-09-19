@@ -65,14 +65,11 @@ Finally, this project has taught me that I should be very humble as a data analy
 
 Sources: 
 
-nflVerse Data Repository:
-https://github.com/nflverse
+Goumas, C. (2014). Home advantage and referee bias in association football. Journal of Sports Sciences, 32(3), 243–249.
 
-ESPN Analytics and QBR Database: 
-https://www.espn.com/nfl/qbr
+Moskowitz, T. J., & Wertheim, L. J. (2011). Scorecasting: The hidden influences behind how sports are played, and games are decided. Crown Archetype.
 
-AirNav Airport and Stadium Coordinates:
-https://www.airnav.com/
+Nevill, A. M., & Holder, R. L. (1999). Home advantage in sport: An overview of studies on sound and crowd effects. Sports Medicine, 28(4), 221–236
 
 
 
