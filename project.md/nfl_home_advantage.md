@@ -67,7 +67,7 @@ Sources:
 
 Goumas, C. (2014). Home advantage and referee bias in association football. Journal of Sports Sciences, 32(3), 243–249.
 
-Moskowitz, T. J., & Wertheim, L. J. (2011). Scorecasting: The hidden influences behind how sports are played, and games are decided. Crown Archetype.
+Courneya, K. S., & Carron, A. V. (1992). The home advantage in sport competitions: A literature review. Journal of Sport and Exercise Psychology, 14(1), 13–27. https://doi.org/10.1123/jsep.14.1.13
 
 Nevill, A. M., & Holder, R. L. (1999). Home advantage in sport: An overview of studies on sound and crowd effects. Sports Medicine, 28(4), 221–236
 
