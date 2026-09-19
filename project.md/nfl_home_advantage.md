@@ -4,11 +4,16 @@ To what extent has has home field advantage declined in the NFL from 2000-2026 t
 
 Data Description/ Conceptualization and Operalization of Variables: 
 
-Home Field Advantage: Conceptualized as more of the performance premium that home team get for hosting a game.
-Home Point Diffrential: Calculated as the Home Team Score - Away Team Score
-Home Win Rate: Binary variable( $1 = Home Team Win, $0 = Home Team Loss) across non neutral games
-Travel friction: This is the physical friction that is experienced by visiting teams. Operationalized by using Home Rest - Away Rest and time zone crossings.
-Environmental Crowd Friction: Conceptualized as visiting offensive communication breakdown created by the stadium decibels. Operationalized using the sum of offensive false starts, delay-of-game fouls, and burned timeouts per game.
+*Home Field Advantage: Conceptualized as more of the performance premium that home team get for hosting a game.
+
+*Home Point Diffrential: Calculated as the Home Team Score - Away Team Score
+
+*Home Win Rate: Binary variable( $1 = Home Team Win, $0 = Home Team Loss) across non neutral games
+
+*Travel friction: This is the physical friction that is experienced by visiting teams. Operationalized by using Home Rest - Away Rest and time zone crossings.
+
+*Environmental Crowd Friction: Conceptualized as visiting offensive communication breakdown created by the stadium decibels. Operationalized using the sum of offensive false starts, delay-of-game fouls, and burned timeouts per game.
+
 
 As I mentioned before, I want to measure whether home-court advantage has declined over the years. Within the 2000 - 2008 era in my research, I have noticed that home teams have maintained a 57 percent win rate with an average margin of 2.5 - 2.7 points. But from 2015 - 2026, the home winning rate has reduced to 54 percent, with a scoring margin of near 1.2 points. Also, accounting for the 2020 Covid 19 era, the home-venue winning rate dropped to 49.8 that was a drop from historical norms, and the home crowd audience is a major contributor to home-winning advantage. But more specifically, in the playoff games, the home winning percentage jumps up to 62-69 percent, according to the NFLverse GitHub. More specifically, in more neutral sites, though, there is more of a 50/50 baseline as a whole, but within rest days as a whole is more of a 3 to 5 percent boost as a whole, and more specifically, this is for Thursday games that are at home, favoring more of the visiting teams for three days of rest.
 
