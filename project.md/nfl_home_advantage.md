@@ -1,6 +1,6 @@
 Problem Definition: 
 
-I wanted to see whether playing at home in the NFL provides a measurable advantage over the years and across the playoffs as a whole. Based on my research, it has shown me that home-court advantage has measurably declined over the years. Historically, playing at home granted NFL teams a 3.0 scoring cushion that guaranteed a 57 - 58 winning percentage, and this was more attributed to referee bias, visitor fatigue, venue familiarity, and more. However, when looking at game tracking from ESPN and nflverse GitHub, it has shown that this has dropped significantly, and the baseline home winning percentage is now sitting between 53.7 and 54.8, placing HFA between 1.0 and 1.5 points.
+To what extent has has home field advantage declined in the NFL from 2000-2026 through regular season and playoff games and how environmental friction such as visiting offense pre snap penalties compare to macro variables in explaning home scoring margins? Historically, playing at home granted NFL teams a 3.0 scoring cushion that guaranteed a 57 - 58 winning percentage, and this was more attributed to referee bias, visitor fatigue, venue familiarity, and more. However, when looking at game tracking from ESPN and nflverse GitHub, it has shown that this has dropped significantly, and the baseline home winning percentage is now sitting between 53.7 and 54.8, placing HFA between 1.0 and 1.5 points.
 
 Data Description: 
 
