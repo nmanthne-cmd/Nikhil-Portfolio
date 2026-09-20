@@ -74,6 +74,8 @@ If I did have more time and data for this project, I would work on studying the 
 
 Finally, this project has taught me that I should be very humble as a data analyst. This project has also shown me that I am very passionate about football analytics. I also understand that my understanding of these mechanics and the travel stress information is still growing since i am still new to this sport as a whole. The data within thousands of games, but if we don't understand the nuance, we can draw too simple conclusions that would not make sense to coaches, analysts, and fans.
 
+
+
 Sources: 
 
 Goumas, C. (2014). Home advantage and referee bias in association football. Journal of Sports Sciences, 32(3), 243–249.
@@ -81,6 +83,10 @@ Goumas, C. (2014). Home advantage and referee bias in association football. Jour
 Courneya, K. S., & Carron, A. V. (1992). The home advantage in sport competitions: A literature review. Journal of Sport and Exercise Psychology, 14(1), 13–27. https://doi.org/10.1123/jsep.14.1.13
 
 Nevill, A. M., & Holder, R. L. (1999). Home advantage in sport: An overview of studies on sound and crowd effects. Sports Medicine, 28(4), 221–236
+
+AI Disclosure: 
+
+*Generative AI Tools(Gemini) were used to assist with the markdown structural formatting, APA citation verification, and slight editing. All data processing steps, statistical calculations, and analytical interpretations were performed and verified by me.
 
 
 
