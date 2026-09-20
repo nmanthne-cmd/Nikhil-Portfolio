@@ -1,12 +1,20 @@
 Problem Definition: 
 
-To what extent has has home field advantage declined in the NFL from 2000-2026 through regular season and playoff games and how environmental friction such as visiting offense pre snap penalties compare to macro variables in explaning home scoring margins? Historically, playing at home granted NFL teams a 3.0 scoring cushion that guaranteed a 57 - 58 winning percentage, and this was more attributed to referee bias, visitor fatigue, venue familiarity, and more. However, when looking at game tracking from ESPN and nflverse GitHub, it has shown that this has dropped significantly, and the baseline home winning percentage is now sitting between 53.7 and 54.8, placing HFA between 1.0 and 1.5 points.
+To what extent has has home field advantage declined in the NFL from 2000-2026 through regular-season and playoff games, and how do environmental frictions, such as visiting-team pre-snap penalties, compare to macro variables in explaining home scoring margins? Historically, playing at home granted NFL teams a 3.0-point scoring cushion that guaranteed a 57 - 58 winning percentage, and this was more attributed to referee bias, visitor fatigue, venue familiarity, and more. However, when looking at game tracking from ESPN and nflverse GitHub, it has shown that this has dropped significantly, and the baseline home winning percentage is now sitting between 53.7 and 54.8, placing HFA between 1.0 and 1.5 points.
 
-Data Description/ Conceptualization and Operalization of Variables: 
+Research Question and Dataset: 
+
+Data was accessed via the open-source NFLverse GitHub and ESPN QBR endpoints with API rate limits and the terms of service.
+
+The primary unit of analysis is the game-level schedule, which includes 6832 non-neutral games that were paired with over 1.28 million play-by-play event rows from
+2000-2026. The missing entries within the non-critical columns were filtered out more specifically during data cleaning or had median values for the specific venue/area.
+
+
+Data Description/ Conceptualization and Operationalization of Variables: 
 
 *Home Field Advantage: Conceptualized as more of the performance premium that home team get for hosting a game.
 
-*Home Point Diffrential: Calculated as the Home Team Score - Away Team Score
+*Home Point Differential: Calculated as the Home Team Score - Away Team Score
 
 *Home Win Rate: Binary variable( $1 = Home Team Win, $0 = Home Team Loss) across non neutral games
 
