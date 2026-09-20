@@ -14,7 +14,7 @@ Email: nvmanthena@gmail.com
 
 Phone: 984-542-9328
 
-Github: nmanthne-cmd
+Github: (https://github.com/nmanthne-cmd/Nikhil-Portfoli)
 
 [Resume](https://drive.google.com/file/d/1hSngOjqJsi5hwjQoyT5OT1Zpq6zRL25d/view?usp=sharing)
 
