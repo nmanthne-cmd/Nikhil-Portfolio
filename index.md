@@ -7,7 +7,6 @@ This website will document my learning and projects throughout the semester.
 
 [Blog](blogs.md)               -                   [Projects](projects.md)
 
-
 My Info
 
 Email: nvmanthena@gmail.com
