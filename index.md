@@ -15,5 +15,5 @@ Github: (https://github.com/nmanthne-cmd/Nikhil-Portfoli)
 
 [Resume](https://drive.google.com/file/d/1hSngOjqJsi5hwjQoyT5OT1Zpq6zRL25d/view?usp=sharing)
 
-Linkedin: https://www.linkedin.com/in/nikhil-manthena-461a3b32a/
+[Linkedin]([https://www.linkedin.com/in/nikhil-manthena-461a3b32a/})
   
