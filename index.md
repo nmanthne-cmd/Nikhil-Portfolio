@@ -11,7 +11,7 @@ My Info
 
 Email: nvmanthena@gmail.com
 
-Github: (https://github.com/nmanthne-cmd/Nikhil-Portfoli)
+Github: (https://github.com/nmanthne-cmd/Nikhil-Portfolio)
 
 [Resume](https://drive.google.com/file/d/1hSngOjqJsi5hwjQoyT5OT1Zpq6zRL25d/view?usp=sharing)
 
