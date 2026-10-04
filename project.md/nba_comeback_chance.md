@@ -18,7 +18,7 @@ Data Sources and Links:
 https://github.com/swar/nba_api
 https://www.basketball-reference.com/leagues/NBA_2024_games.html
 
-Within the datastructure and limitations, a single NBA game snapshot is recorded at a specific game checkpoint: halftime or the end of the 3rd quarter, where the leading team forces a deficit of 10 or more points. We are going to be looking at 4 datasets from 2020-2021 all the way through 2023-2024, which would cover 4920 regular season games. I would primarily be filtering for instances where a team trailed by 10 or more points or if the 3rd-quarter break, which yielded a smaller dataset of 1428 unique comeback opportunity snapshots. My target variable would be comeback_win and it would be binary: 0 if the trailing team loses and 1 if the trailing team wins. THe primary available features that I am primarily looking at are score_margin
+Within the datastructure and limitations, a single NBA game snapshot is recorded at a specific game checkpoint: halftime or the end of the 3rd quarter, where the leading team forces a deficit of 10 or more points. We are going to be looking at 4 datasets from 2020-2021 all the way through 2023-2024, which would cover 4920 regular season games. I would primarily be filtering for instances where a team trailed by 10 or more points or if the 3rd-quarter break, which yielded a smaller dataset of 1428 unique comeback opportunity snapshots. My target variable would be comeback_win and it would be binary: 0 if the trailing team loses and 1 if the trailing team wins. THe primary available features that I am looking at is score_margin
 
 
 
