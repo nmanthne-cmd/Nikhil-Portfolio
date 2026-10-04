@@ -3,11 +3,14 @@ The problem statement is  to identify whether an NBA team trailing by double dig
 Modern NBA Analytics have established that lead security has dropped a lot over the past decade. The adoption of three-point shooting and increased pace of play has introduced more variance within the live game outcomes. Within a traditional win probability framework, evaluate the win probability as a function of point differential, time remaining, and home-court advantage. (Lock and Schuckers 2013) However, the teams that are trailing can alter the expected points per possession by shifting the more tactical levers, more specifically by increasing their three-point attempt rates and pressing for more turnovers. Taking into account research suggests that trailing teams benefit from the regression to the mean within shooting efficiency, and primarily through other plays, like where leading teams offensively 'stall,' disrupting trailing teams' rhythm. (Oliver 2004, Skinner 2012)
 
 Sources: 
-Lock, K., & Schuckers, M. (2013). In-game web-based win probability models for the National Basketball Association. Journal of Quantitative Analysis in Sports, 9(2), 197–205.
+
+Lock, K., & Schuckers, M. (2013). In-game web-based win probability models for the National Basketball Association. Journal of Quantitative Analysis in Sports, 9(2), 197–205. https://doi.org/10.1515/jqas-2012-0051
 
 Oliver, D. (2004). Basketball on Paper: Rules and Tools for Performance Analysis. Brassey's.
 
-Skinner, B. (2012). The problem of shot selection and the price of anarchy in basketball. Journal of Quantitative Analysis in Sports, 8(1), 1–16.
+Skinner, B. (2012). The problem of shot selection and the price of anarchy in basketball. Journal of Quantitative Analysis in Sports, 8(1), 1–16. https://doi.org/10.1515/1559-0410.1344
+
+Stern, H. S. (1994). A preliminary statistical analysis of the home field advantage in professional sports. Journal of Quantitative Analysis in Sports, 1(1), 1–15.
 
 Data Sources and Links: 
 
