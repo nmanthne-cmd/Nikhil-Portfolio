@@ -31,7 +31,29 @@ Within this, the key EDA insights are that the comeback probability would drop e
 
 Games with incomplete play-by-play logs accounted for less than 0.5 percent of the samples which were dropped. Outliers within the pace and box score statistics were truncated at the 99th percentile. is_home is converted to binary 1/0 and the numerical features such as score_margin, seconds_remaining, and trailing_3pt_pct etc are standardized and we are using StandardScaler for logistic regression. Tree Boost XGBoost models used raw features that were used to maintain split threshold readability. The features were also selected through 4 different domains such as game state which includes score_margin, seconds_remaining,, period and is_home, shooting drivers which includes trailing_3PAR and traiing_3p_pct and posession and momentum which includes turnover_diff,orb_pct_diff, and rolling_pace and finally for the prior context we need the pregame_spread. 
 
-The data was spread more through chronologically first through (2020-2023 for training and 2023-2024 for testing) and yeah instead of more randomly replicating real world coaching deployment. Data leakage was prevented by ensuring that the efficiency features reflect the statistics were accumulated up to the specific timestamp such as halftime and it would also exclude all downstream 2nd half/4th quarter box score stats.
+The data was spread more through chronologically first through (2020-2023 for training and 2023-2024 for testing) and yeah instead of more randomly replicating real world coaching deployment. Data leakage was prevented by ensuring that the efficiency features reflect the statistics were accumulated up to the specific timestamp such as halftime and by excluding all downstream 2nd half/4th quarter box score stats.
+
+6.
+
+Within our baseline strategy, we plan on using the Dummy classifier, which says that the majority team 0 trailing team loses about 86 percent of the time. This also works on establishing that accuracy is not a correct metric for this, and the model should use more probability and class-balanced metrics 
+
+Within model 1 regression, this would serve as the more interpretable parametric baseline that would allow the assessment of log odds ratio and this would be fitted with hyperparameters such as class weight = 'balanced' and L2 regularization (c = 1.0).
+
+Also within model 2, planning to do XGBoost (gradient-boosted decision trees and the rationale for this is that this would show more complex interactions between time remaining, deficit depth, and live efficiency spikes that wouldn't require manual interaction terms. For the hyperparameters part as a whole, tuned using StratifiedKFold cross-validation (max_depth = 4,learning_rate = 0.05, n_estimators = 150, scale_pos_weight = 6.2 that would handle the class imbalance.
+
+
+
+Selected Metrics:
+
+ROC - AUC: Measures the discrimination capability across all the classification thresholds.
+
+PR- AUC(precision recall AUC): Primary metric that was due to class imbalance(13.8 percentage positive class)
+
+Brier Score/Log 
+
+
+
+
 
 
 
