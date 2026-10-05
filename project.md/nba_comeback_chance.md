@@ -150,6 +150,9 @@ What users should understand before relying on it. The output is a probability, 
 
 Data sources.
 
+VS code repository: NBA_comeback
+
+
 Swar. (n.d.). nba_api [Python package]. GitHub. https://github.com/swar/nba_api
 Basketball-Reference. (n.d.). 2023–24 NBA schedule and results. Sports Reference. https://www.basketball-reference.com/leagues/NBA_2024_games.html
 
