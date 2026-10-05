@@ -150,7 +150,7 @@ What users should understand before relying on it. The output is a probability, 
 
 Data sources.
 
-VS code repository: NBA_comeback
+VS code repository: [NBA.comeback.ipynb](https://github.com/user-attachments/files/32427889/NBA_comeback.1.ipynb)
 
 
 Swar. (n.d.). nba_api [Python package]. GitHub. https://github.com/swar/nba_api
