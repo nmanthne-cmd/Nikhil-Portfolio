@@ -165,7 +165,7 @@ VS code repository: https://github.com/nmanthne-cmd/Nikhil-Portfolio/blob/main/p
 Swar. (n.d.). nba_api [Python package]. GitHub. https://github.com/swar/nba_api
 Basketball-Reference. (n.d.). 2023–24 NBA schedule and results. Sports Reference. https://www.basketball-reference.com/leagues/NBA_2024_games.html
 
-*Generative AI Tools(Gemini) were used to assist with the markdown structural formatting, APA citation verification, and slight editing. All data processing steps, statistical calculations, and analytical interpretations were performed and verified by me.
+*Generative AI Tools(Gemini) were used to assist with the Markdown structural formatting, APA citation verification, and slight editing. All data processing steps, statistical calculations, and analytical interpretations were performed and verified by me.
 
 
 
