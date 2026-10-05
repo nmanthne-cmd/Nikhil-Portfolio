@@ -1,3 +1,4 @@
+<img width="1791" height="675" alt="regression" src="https://github.com/user-attachments/assets/4bfad790-c9a0-4be2-a182-a7c9b486b90f" />
 The problem statement is  to identify whether an NBA team trailing by double digits at a live game checkpoint can overcome the deficit and win the game. For the target variable, I am looking to assess comeback_win, which would be 1 if the trailing team wins or 0 if the trailing team loses. For this task type, it would be assessed as binary classification, and the people who would primarily benefit from this would be sports analytics staff and head coaches, who would figure out whether to bench starters vs. actually trying to push for a comeback; the sports media, who are gonna work on using this content as framing more narrative shifts as a whole; and it would also be used in live betting models. The significance of this would be that standard win probability relies heavily on static score differential and more of the time remaining. This high-variance basketball as a whole should make the deficits easier to come back from through 3-point shooting. This can also help us understand the best live game mechanics that would trigger a comeback by isolating the more team-driven performance from the other random scoring noise as a whole.
 
 Modern NBA Analytics have established that lead security has dropped a lot over the past decade. The adoption of three-point shooting and increased pace of play has introduced more variance within the live game outcomes. Within a traditional win probability framework, evaluate the win probability as a function of point differential, time remaining, and home-court advantage. (Lock and Schuckers 2013) However, the teams that are trailing can alter the expected points per possession by shifting the more tactical levers, more specifically by increasing their three-point attempt rates and pressing for more turnovers. Taking into account research suggests that trailing teams benefit from the regression to the mean in shooting efficiency, and primarily through other plays, like where leading teams offensively 'stall,' disrupting trailing teams' rhythm. (Oliver, 2004; Skinner, 2012)
@@ -150,7 +151,15 @@ What users should understand before relying on it. The output is a probability, 
 
 Data sources.
 
-VS code repository: [NBA.comeback.ipynb](https://github.com/user-attachments/files/32427889/NBA_comeback.1.ipynb)
+VS code repository: 
+
+
+<img width="1791" height="675" alt="regression" src="https://github.com/user-attachments/assets/b8ff76ca-0641-4bf6-b3e2-505a36b2371a" />
+<img width="1617" height="841" alt="regression(2)" src="https://github.com/user-attachments/assets/4e962f51-2e8c-4322-86ce-45e4fbc48209"/>
+<img width="1680" height="692" alt="regression(3)" src="https://github.com/user-attachments/assets/0eab1a36-8c6f-40a6-8403-1d19f6e8d0f8" />
+
+
+
 
 
 Swar. (n.d.). nba_api [Python package]. GitHub. https://github.com/swar/nba_api
